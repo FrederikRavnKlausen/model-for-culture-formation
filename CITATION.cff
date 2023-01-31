@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: model-for-culture-formation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Frederik Ravn
+    family-names: Klausen
+    email: frederik.ravn.klausen@gmail.com
+    affiliation: UCPH
+    orcid: 'https://orcid.org/0000-0001-7815-4315'
+  - given-names: Asbjørn Bækgaard
+    family-names: 'Lauritsen '
+    email: alaurits@ist.ac.at
+    affiliation: 'IST '
+    orcid: 'https://orcid.org/0000-0003-4476-2288'
+repository-code: >-
+  https://github.com/FrederikRavnKlausen/model-for-culture-formation
+license: CC-BY-NC-4.0
+date-released: '2023-01-31'
