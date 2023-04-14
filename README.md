@@ -8,6 +8,6 @@ The folder "auxiliary-files" contains
 
 The folder "plotting-code" contains code to make various plots in the paper.
 
-The folder "simulation-code" constains the code running the simulations:
+The folder "simulation-code" contains the code running the simulations:
 1.	The files "mapdynamics_periodic_iter---.py" run on the European map.
 2.	The files "torus---.py" run on the torus, i.e., with periodic boundary conditions.
