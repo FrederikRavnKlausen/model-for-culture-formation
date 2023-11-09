@@ -1,4 +1,4 @@
-Various code and files for the paper "A stochastic cellular automaton model of culture formation" by F. R. Klausen and A. B. Lauritsen, link: TBA
+Various code and files for the paper "Stochastic cellular automaton model of culture formation" by F. R. Klausen and A. B. Lauritsen, [Phys. Rev. E 108, 054307 (2023)](https://doi.org/10.1103/PhysRevE.108.054307)
 
 The repository is structed as follows:
 
